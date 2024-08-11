@@ -22,4 +22,5 @@ Feel free to explore, modify, and experiment with the code!
 Happy coding!
 
 ## Help & Support
-Do you need a personal guide or tutor, I am happy to help. Reach out to me via my linkedin 
+Support this project on Ko-fi! https://ko-fi.com/gloryanoliefo
+Do you need a personal guide or tutor?, I am happy to help. Reach out to me via my linkedin.
