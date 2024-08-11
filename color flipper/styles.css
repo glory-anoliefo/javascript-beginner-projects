@@ -107,3 +107,34 @@ main{
 }
 
 /* Media Queries */
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .button{
+        margin: auto;
+        align-content: center;
+        justify-content: center;
+        width: 100%;
+        font-size: 0.7rem;
+    }
+    .bg-color-heading{
+        text-align: center;
+       font-size: 0.9rem;
+    }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .button{
+        margin: auto;
+        align-content: center;
+        justify-content: center;
+        width: 100%;
+        font-size: 0.7rem;
+    }
+
+    .bg-color-heading{
+        text-align: center;
+       font-size: 1.1rem;
+    }
+}
