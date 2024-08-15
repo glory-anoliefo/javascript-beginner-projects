@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Sora", sans-serif;
+}
+
+html,body{
+    display: grid;
+    height: 100%;
+    place-items: center;
+    text-align: center;
+}
+
+.grid-container{
+    background-color: #52acf1;
+    padding: 100px;
+}
+
+.counter-number{
+    margin: 20px;
+}
+
+#value{
+    height: 100%;
+    width: 88%;
+    display: block;
+    font-size: 5rem;
+}
+
+
+.btn{
+    padding: 5px;
+    margin: 2px;
+    background: transparent;
+    text-align: center;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    border-color: rgb(255, 255, 255);
+}
