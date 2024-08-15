@@ -16,6 +16,14 @@ Math.floor(), Math.ceil()
 Math.random(), Array.from(),
 array.length
 ## 2. Counter
+Key concepts covered:
+
+document.querySelectorAll(), callback function, if else statement, nodelist,
+forEach(),
+addEventListener(), event object (e),
+currentTarget property,
+classList,
+textContent
 
 ## How to Use
 
