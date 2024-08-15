@@ -5,6 +5,17 @@ Welcome to my collection of JavaScript beginner projects! This folder contains a
 ## Projects Included
 
 Each project is designed to help reinforce fundamental concepts in JavaScript, such as working with variables, functions, loops, conditionals, and DOM manipulation. The projects range from simple exercises to slightly more complex challenges, perfect for anyone looking to build a solid foundation in JavaScript.
+## 1. Color flipper
+Key concepts covered:
+arrays,
+document.getElementById(),
+document.querySelector(),
+addEventListener(),
+document.body.style.backgroundColor,
+Math.floor(), Math.ceil()
+Math.random(), Array.from(),
+array.length
+## 2. Counter
 
 ## How to Use
 
