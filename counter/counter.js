@@ -29,9 +29,4 @@ buttons.forEach(function (btn) {
     value.textContent = count;
   });
 });
-
-//set count to span value
-
-//use loop to implement counting
-//start at count value
-//increment by 1
+1
